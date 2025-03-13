@@ -31,14 +31,6 @@ sections:
         style: primary
         elementId: ''
         type: Link
-    media:
-      type: ImageBlock
-      url: /images/hero2.svg
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
     badge:
       label: This is a badge
       color: text-primary
