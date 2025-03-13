@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Your healthcare assistant
+      text: Welcome to Healthify
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
