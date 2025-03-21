@@ -12,16 +12,7 @@ sections:
       preventive, and hassle-free. We are working hard to bring you the best
       virtual healthcare experience.
     text: ''
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
       label: ''
       color: text-primary
