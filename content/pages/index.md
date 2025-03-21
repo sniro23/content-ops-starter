@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome to Healthify
+      text: Greetings from Healthify
       color: text-dark
       type: TitleBlock
     subtitle: >-
