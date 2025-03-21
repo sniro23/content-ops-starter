@@ -56,7 +56,7 @@ sections:
           health.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Healthify_icon@2x@2x.png
           altText: Featured item
           styles:
             self:
