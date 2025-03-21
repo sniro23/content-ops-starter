@@ -79,10 +79,10 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: Health Counselling
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We don't just cure disease, we prevent them. We provide individualised
+          disease screening and health counselling. Be it exercise prescription,
+          mental health or medical advice, we'd be your go to friend
         image:
           type: ImageBlock
           url: /images/icon2.svg
