@@ -103,7 +103,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Health Monitoring
-        subtitle: Faster
+        subtitle: Remote health monitoring and home visits
         text: >
           We care about you more than you do. We keep track of your health and
           we will come to you when you need us.
