@@ -51,10 +51,10 @@ sections:
       - type: FeaturedItem
         title: Virtual Consultations
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Connect with your healthcare professional hassle free at the comfort
+          of your home
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
