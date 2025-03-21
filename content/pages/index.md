@@ -41,7 +41,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Our Services
       color: text-dark
       styles:
         self:
