@@ -231,7 +231,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Anything You'd like to hear from us ?
           width: full
           type: TextareaFormControl
           isRequired: false
