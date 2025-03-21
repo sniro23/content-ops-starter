@@ -10,7 +10,8 @@ sections:
     subtitle: >-
       Sri Lanka's ground breaking multi-purpose digital healthcare platform.
       Accessible and hassle free healthcare at your disposal.
-    text: ''
+    text: |
+      Coming Soon !
     actions: []
     badge:
       label: ''
