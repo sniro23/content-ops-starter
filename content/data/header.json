@@ -20,15 +20,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "",
             "altText": "Dropdown",
             "links": [
