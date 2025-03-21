@@ -8,9 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      Your trusted digital health assistant, making healthcare accessible,
-      preventive, and hassle-free. We are working hard to bring you the best
-      virtual healthcare experience.
+      Sri Lanka's ground breaking multi-purpose digital healthcare platform.
+      Accessible and hassle free healthcare at your disposal.
     text: ''
     actions: []
     badge:
