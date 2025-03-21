@@ -102,7 +102,7 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: 200%
+        title: Health Monitoring
         subtitle: Faster
         text: >
           We care about you more than you do. We keep track of your health and
