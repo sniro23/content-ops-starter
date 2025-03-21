@@ -15,8 +15,7 @@
                 "borderWidth": 2
             }
         },
-        "type": "ImageBlock",
-        "url": "/images/Healthify Logo New.png"
+        "type": "ImageBlock"
     },
     "primaryLinks": [
         {
