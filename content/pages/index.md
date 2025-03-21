@@ -50,8 +50,8 @@ sections:
           Sick of all these hassle to access healthcare ?
 
 
-          We are here to bridge these gaps. We at healthify aim to bridge these
-          gaps, we aim to give you more than just cure to your illnesses.
+          We are here to bridge these gaps. We at healthify aim to give you more
+          than just cure to your illnesses.
 
           Join us to embark on a healthier journey. Let us take care of your
           health.
