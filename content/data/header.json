@@ -23,7 +23,7 @@
         {
             "label": "Sign up",
             "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
+            "url": "https://healthify.continuouscare.io/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -31,7 +31,7 @@
         },
         {
             "label": "Log in",
-            "url": "/",
+            "url": "https://healthify.continuouscare.io/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
