@@ -43,10 +43,19 @@ sections:
         title: Why Healthify ?
         tagline: Feature 1
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Tired of long waiting times and costly consultations ?
+
+
+          Sick of all these hassle to access healthcare ? 
+
+
+          We are here to bridge these gaps. We at healthify aim to bridge these
+          gaps, we aim to give you more than just cure to your illnesses. 
+
+          Join us to embark on a healthier journey. Let us take care of your
+          health. 
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
