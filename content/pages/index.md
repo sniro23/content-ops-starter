@@ -109,7 +109,7 @@ sections:
           we will come to you when you need us.
         image:
           type: ImageBlock
-          url: /images/icon3.svg
+          url: /images/avatar2.svg
           altText: Featured icon three
           elementId: ''
         actions: []
