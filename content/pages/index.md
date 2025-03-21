@@ -38,7 +38,7 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     items:
-      - title: 20x
+      - title: Text Consultations
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
