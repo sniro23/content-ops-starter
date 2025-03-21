@@ -1,17 +1,26 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ],
+                "padding": [
+                    "pt-0",
+                    "pl-6",
+                    "pb-3",
+                    "pr-6"
+                ],
+                "borderWidth": 2
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/Webpage header.png"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Services",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -28,7 +37,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Contact Us",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -37,7 +46,7 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "",
             "altText": "Dropdown",
             "links": [
                 {
@@ -88,7 +97,7 @@
             "type": "Button"
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-light-fg-dark",
+    "variant": "logo-left-primary-nav-left",
+    "colors": "bg-dark-fg-light",
     "type": "Header"
 }
