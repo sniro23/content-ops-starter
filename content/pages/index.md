@@ -230,7 +230,7 @@ sections:
           type: EmailFormControl
         - name: message
           label: Message
-          hideLabel: false
+          hideLabel: true
           placeholder: Your message
           width: full
           type: TextareaFormControl
