@@ -179,7 +179,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Chat with a professional
+        label: Chat with a doctor
         altText: ''
         url: >-
           /https://healthify.continuouscare.io/secure/patientweb/healthcare_provider
