@@ -189,7 +189,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: G
+        label: Become
         altText: ''
         url: '/https://healthify.continuouscare.io/secure/registration/?lang=en_US'
         showIcon: false
