@@ -169,7 +169,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Get started
+        label: Meet a Doctor
         altText: ''
         url: /
         showIcon: false
