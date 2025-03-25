@@ -188,6 +188,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Get started
+        altText: ''
+        url: '/https://healthify.continuouscare.io/secure/registration/?lang=en_US'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     badge:
       type: Badge
       label: ''
