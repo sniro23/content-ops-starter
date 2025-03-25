@@ -169,9 +169,29 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Get started
+        label: Meet a Doctor
         altText: ''
-        url: /
+        url: >-
+          /https://healthify.continuouscare.io/secure/patientweb/video_appointments
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: Chat with a doctor
+        altText: ''
+        url: >-
+          /https://healthify.continuouscare.io/secure/patientweb/healthcare_provider
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: Become a member
+        altText: ''
+        url: '/https://healthify.continuouscare.io/secure/registration/?lang=en_US'
         showIcon: false
         icon: arrowRight
         iconPosition: right
