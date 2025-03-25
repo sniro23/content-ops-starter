@@ -191,7 +191,7 @@ sections:
       - type: Button
         label: Become a member
         altText: ''
-        url: '/https://healthify.continuouscare.io/secure/registration/?lang=en_US'
+        url: 'https://healthify.continuouscare.io/secure/registration/?lang=en_US'
         showIcon: false
         icon: arrowRight
         iconPosition: right
