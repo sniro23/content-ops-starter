@@ -172,7 +172,7 @@ sections:
         label: Meet a Doctor
         altText: ''
         url: >-
-          /https://healthify.continuouscare.io/secure/patientweb/video_appointments
+          https://healthify.continuouscare.io/secure/patientweb/video_appointments
         showIcon: false
         icon: arrowRight
         iconPosition: right
