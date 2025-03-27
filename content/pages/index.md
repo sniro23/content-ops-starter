@@ -7,7 +7,7 @@ sections:
       text: Greetings from Healthify
       color: text-dark
       type: TitleBlock
-    subtitle: 'Not Just Care, Curate Care'
+    subtitle: 'Not Just Care, Curated Care'
     text: |
       Coming Soon !
     actions: []
