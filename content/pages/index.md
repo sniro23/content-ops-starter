@@ -7,7 +7,7 @@ sections:
       text: Greetings from Healthify
       color: text-dark
       type: TitleBlock
-    subtitle: Not just care—curated care Preventive screenings and proactive follow-ups
+    subtitle: Preventive screenings and proactive follow-ups
     text: |
       Coming Soon !
     actions: []
