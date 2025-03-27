@@ -7,7 +7,10 @@ sections:
       text: Greetings from Healthify
       color: text-dark
       type: TitleBlock
-    subtitle: Preventive screenings and proactive follow-ups
+    subtitle: >-
+      Healthify is a digital health platform dedicated to delivering curated
+      care through preventive health services and personalized follow-up
+      programs.
     text: |
       Coming Soon !
     actions: []
