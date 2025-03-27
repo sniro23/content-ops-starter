@@ -94,7 +94,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Virtual Consultations
-        subtitle: ''
+        subtitle: 'Text | Video | '
         text: >+
           Connect with your healthcare professional hassle free at the comfort
           of your home
