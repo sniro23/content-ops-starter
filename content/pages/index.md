@@ -122,7 +122,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Preventive Care
-        subtitle: Prevenv
+        subtitle: Preventive Care
         text: >
           We don't just cure disease, we prevent them. We provide individualised
           disease screening and health counselling. Be it exercise prescription,
