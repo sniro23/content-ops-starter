@@ -7,9 +7,7 @@ sections:
       text: Greetings from Healthify
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      Sri Lanka's ground breaking multi-purpose digital healthcare platform.
-      Accessible and hassle free healthcare at your disposal.
+    subtitle: 'Not Just Care, Curate Care'
     text: |
       Coming Soon !
     actions: []
@@ -18,7 +16,7 @@ sections:
       color: text-primary
       type: Badge
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
@@ -45,16 +43,18 @@ sections:
         tagline: Feature 1
         subtitle: ''
         text: >
-          Tired of long waiting times and costly consultations ?
+          Healthify is a digital health platform dedicated to delivering curated
+          care through preventive health services and personalized follow-up
+          programs. We believe healthcare shouldn’t stop at diagnosis or a
+          single consultation. That’s why we go beyond — offering individualized
+          disease workups, scheduled check-ins, and ongoing support through
+          every stage of your wellness journey.
 
-          Sick of all these hassle to access healthcare ?
 
-
-          We are here to bridge these gaps. We at healthify aim to give you more
-          than just cure to your illnesses.
-
-          Join us to embark on a healthier journey. Let us take care of your
-          health.
+          With secure text and video consultations, Healthify connects patients
+          to a dedicated team of doctors and mental health professionals —
+          helping them take control of chronic conditions, access preventive
+          screenings, and receive trustworthy health advice, anytime, anywhere.
         image:
           type: ImageBlock
           url: /images/Healthify_icon@2x@2x.png
@@ -94,7 +94,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Virtual Consultations
-        subtitle: ''
+        subtitle: 'Text | Video | '
         text: >+
           Connect with your healthcare professional hassle free at the comfort
           of your home
@@ -121,8 +121,8 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: ''
-        subtitle: Health Counselling
+        title: Preventive Care
+        subtitle: Individualized disease workups & Health Education
         text: >
           We don't just cure disease, we prevent them. We provide individualised
           disease screening and health counselling. Be it exercise prescription,
@@ -147,7 +147,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Health Monitoring
-        subtitle: Remote health monitoring and home visits
+        subtitle: Remote health monitoringand home visits
         text: >
           We care about you more than you do. We keep track of your health and
           we will come to you when you need us.
