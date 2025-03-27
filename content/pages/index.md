@@ -7,9 +7,7 @@ sections:
       text: Greetings from Healthify
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      Sri Lanka's ground breaking multi-purpose digital healthcare platform.
-      Accessible and hassle free healthcare at your disposal.
+    subtitle: Not just care—curated carePreventive screenings and proactive follow-ups
     text: |
       Coming Soon !
     actions: []
