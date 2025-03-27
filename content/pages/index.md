@@ -7,10 +7,7 @@ sections:
       text: Greetings from Healthify
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      Healthify is a digital health platform dedicated to delivering curated
-      care through preventive health services and personalized follow-up
-      programs.
+    subtitle: 'Not Just Care, Curate Care'
     text: |
       Coming Soon !
     actions: []
