@@ -42,17 +42,27 @@ sections:
         title: Why Healthify ?
         tagline: Feature 1
         subtitle: ''
-        text: >
-          Tired of long waiting times and costly consultations ?
+        text: >+
+          Healthify is a digital health platform dedicated to delivering curated
+          care through preventive health services and personalized follow-up
+          programs.
 
-          Sick of all these hassle to access healthcare ?
+
+          We believe healthcare shouldn’t stop at diagnosis or a single
+          consultation. That’s why we go beyond — offering individualized
+          disease workups, scheduled check-ins, and ongoing support through
+          every stage of your wellness journey.
 
 
-          We are here to bridge these gaps. We at healthify aim to give you more
-          than just cure to your illnesses.
+          With secure text and video consultations, Healthify connects patients
+          to a dedicated team of doctors and mental health professionals —
+          helping them take control of chronic conditions, access preventive
+          screenings, and receive trustworthy health advice, anytime, anywhere.
 
-          Join us to embark on a healthier journey. Let us take care of your
-          health.
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Healthify_icon@2x@2x.png
