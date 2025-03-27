@@ -122,7 +122,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Preventive Care
-        subtitle: Preventive Care
+        subtitle: Individualized disease workups & Health Education
         text: >
           We don't just cure disease, we prevent them. We provide individualised
           disease screening and health counselling. Be it exercise prescription,
